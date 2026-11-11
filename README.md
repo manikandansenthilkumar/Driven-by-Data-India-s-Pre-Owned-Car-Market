@@ -123,6 +123,10 @@ It helped develop practical skills in Excel, Python, SQL, and Power BI while con
 - Power BI: Interactive dashboard (.pbix)
 - Presentation: Project documentation (.docx)
 
+  ## 8. Power BI Dashboard Preview
+
+![Power BI Dashboard](dashboard-preview.png)
+
 ---
 
 **Project Title:** Driven by Data: India's Pre-Owned Car Market
