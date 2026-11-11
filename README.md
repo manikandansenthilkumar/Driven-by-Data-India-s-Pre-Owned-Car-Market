@@ -132,3 +132,10 @@ It helped develop practical skills in Excel, Python, SQL, and Power BI while con
 **Project Title:** Driven by Data: India's Pre-Owned Car Market
 
 **Tools:** Excel | Python | SQL | Power BI
+
+## 👤 Author
+
+**Manikandan S**
+- LinkedIn: [https://www.linkedin.com/in/mani-kandan-337500402?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- GitHub: [manikandansenthilkumar](https://github.com/manikandansenthilkumar)
+- Email: manikandansenthil2022@gmail.com
